@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
 
 :root {
-  --bg-deep: #0a0f1a;
+  --bg-deep: #0a0a0a;
   --bg-card: rgba(16, 24, 42, 0.6);
   --bg-card-hover: rgba(20, 30, 52, 0.8);
   --border: rgba(52, 168, 83, 0.12);
